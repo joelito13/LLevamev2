@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792173834990",
+    "firebase_url": "https://llevamev2.firebaseio.com",
+    "project_id": "llevamev2",
+    "storage_bucket": "llevamev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792173834990:android:5dd20f6e87d679009fb9ff",
+        "android_client_info": {
+          "package_name": "com.example.llevamev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792173834990-35cvjket3vgg31s7butk58d0rq2c4hj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MN_r6IRTBSG_MSndrJXZp4S87-4Fc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792173834990-35cvjket3vgg31s7butk58d0rq2c4hj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
